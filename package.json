@@ -1,0 +1,17 @@
+{
+  "name": "how-to-use",
+  "version": "1.0.0",
+  "description": "Esta es una lista de recomendaciones de uso de las diversas funcionalidades de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es",
+    "javascript",
+    "js",
+    "howtouse"
+  ],
+  "author": "Caleb Ventura",
+  "license": "MIT"
+}
